@@ -6,6 +6,13 @@
 header {
     background-color: rgb(98 77 50);
 }
+ 
+@media only screen and (min-width: 601px){
+    .blockstyle {
+    display: flex;
+}
+}
+
 
 footer {
     background-color: rgb(98 77 50);
