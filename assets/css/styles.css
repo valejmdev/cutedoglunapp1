@@ -6,6 +6,12 @@
 header {
     background-color: rgb(98 77 50);
 }
+.headerimageleft{
+    width:50%;
+}
+.headerimageright{
+    width:50%;
+}
  
 @media only screen and (min-width: 601px){
     .blockstyle {
