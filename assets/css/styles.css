@@ -50,7 +50,7 @@ header a {
     color: #fafafa;
 }
 
-#navbar-burger {
+.navbar-burger {
     font-size: 110%;
     letter-spacing: 4px;
     list-style-type: none;
@@ -61,7 +61,7 @@ header a {
     color: #fafafa;
 }
 
-#navbar-burger>li {
+.navbar-burger>li {
     margin-bottom: 1em;
     color: black;
 }
@@ -200,11 +200,11 @@ footer {
         display: block;
     }
 
-    #navbar-burger {
+    .navbar-burger {
         display: flex;
     }
 
-    #navbar-burger>li {
+    .navbar-burger>li {
         padding-left: 1rem;
     }
 
