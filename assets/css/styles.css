@@ -1,9 +1,10 @@
 /* import Google fonts  */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
-*{
+* {
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
 }
 
 body {
@@ -14,13 +15,22 @@ body {
 a {
     color: black;
 }
+
 /*header area*/
 header {
     background-color: rgb(98 77 50);
     height: 250px;
+    width: 100vw;
 }
-header a{
+
+header a {
     color: #fafafa;
+}
+
+.navbar-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 .header-image-left {
@@ -35,48 +45,58 @@ header a{
     width: 100%;
     height: 200px;
 }
+
 #website-name {
     color: #fafafa;
 }
+
 #navbar-burger {
     font-size: 110%;
     letter-spacing: 4px;
     list-style-type: none;
+
+}
+
+.fa-solid {
+    color: #fafafa;
 }
 
 #navbar-burger>li {
     margin-bottom: 1em;
+    color: black;
 }
 
 /* Create a dropdown styled nav bar */
 nav {
     position: absolute;
+    display: none;
     background-color: #ffffff;
     width: 100%;
-    left: 0;
+    right: 0;
     padding: 0 1rem;
-    box-shadow: 0 2px 2px #3a3a3a;
-    top: 100%;
+    top: 37px;
+
 }
+
 /* toggle layout for nav bar */
 
 #navbar-toggle:checked~nav {
 
     display: block;
-    
-    }
-    
-    #navbar-toggle {
-    
+
+}
+
+#navbar-toggle {
+
     display: none;
-    
-    }
-    
-    .navbar-toggle-label {
-    
+
+}
+
+.navbar-toggle-label {
+
     font-size: 2rem;
-    
-    }
+
+}
 
 /*footer area*/
 footer {
@@ -85,6 +105,7 @@ footer {
 
 /*larger devices (laptop and desktop)*/
 @media only screen and (min-width: 992px) {
+
     /*header area*/
     nav {
         display: block;
@@ -120,9 +141,9 @@ footer {
     #website-name {
         font-size: 280%;
         line-height: 75px;
-        margin: 0 0.5rem;
         position: absolute;
         top: 0;
         left: 0;
 
+    }
 }
