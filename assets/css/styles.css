@@ -24,7 +24,7 @@ header {
 }
 
 header a {
-    color: #fafafa;
+    color: black;
 }
 
 .navbar-div {
@@ -73,7 +73,7 @@ nav {
     background-color: #ffffff;
     width: 100%;
     right: 0;
-    padding: 0 1rem;
+    padding: 20px 1rem;
     top: 37px;
 
 }
@@ -107,6 +107,9 @@ footer {
 @media only screen and (min-width: 992px) {
 
     /*header area*/
+    header a {
+        color: #fafafa;
+    }
     nav {
         display: block;
         position: absolute;
@@ -146,4 +149,5 @@ footer {
         left: 0;
 
     }
+    
 }
