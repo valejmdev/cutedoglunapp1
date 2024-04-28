@@ -103,6 +103,12 @@ footer {
     background-color: rgb(98 77 50);
 }
 
+#embedded-map-display {
+    height:100%; 
+    width:100%;
+    max-width:100%;
+}
+
 /*larger devices (laptop and desktop)*/
 @media only screen and (min-width: 992px) {
 
