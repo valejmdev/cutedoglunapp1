@@ -37,13 +37,13 @@ header a {
 }
 
 .header-image-left {
-    background: url("luna-pictures/cutedoglunagreeting.jpg") no-repeat center center / cover;
+    background: url("luna-pictures/cutedoglunagreeting.webp") no-repeat center center / cover;
     width: 100%;
     height: 200px;
 }
 
 .header-image-right {
-    background: url("luna-pictures/cutedoglunaballclose.jpg") no-repeat center center / cover;
+    background: url("luna-pictures/cutedoglunaballclose.webp") no-repeat center center / cover;
     display: none;
     width: 100%;
     height: 200px;
