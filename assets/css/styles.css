@@ -118,6 +118,10 @@ h3 {
     text-align: center;
 }
 
+.bold {
+    font-weight: bold;
+}
+
 .homepage-text {
     display: flex;
     font-family: 'Montserrat', sans-serif;
@@ -151,17 +155,45 @@ h3 {
     max-width: 350px;
     margin: 20px 10px 20px 0;
 }
-#contact-image-top{
+
+#contact-image-top {
     display: none;
 }
 
-#personal-info{
-    display:flex;
+.form-input-container {
+    display: flex;
     flex-direction: column;
+}
+
+.form-input {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 10px 0;
+}
+
+.form-input-align {
+    display: flex;
+    flex-direction: row;
+    margin: 5px;
 }
 
 #terms {
     display: none;
+}
+
+#submit-area {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#contact-image-bottom {
+    min-height: 300px;
+    max-height: 500px;
+    min-width: 280px;
+    max-width: 350px;
+    margin: 20px 10px 20px 0;
 }
 
 .google-maps-align {
@@ -329,23 +361,37 @@ footer {
         border: 5px solid black;
     }
 
-    #contact-image-top{
+    .contact-form-align {
+        display: flex;
+        flex-direction: row;
+    }
+
+    #contact-image-top {
         display: block;
+        max-width: 30vw;
+        margin: 20px 10px 20px 0;
     }
-    #terms-link{
-        display:hidden;
+    
+    #form-div {
+        width: 30vw;
     }
+
+    #terms-link {
+        display: hidden;
+    }
+
     #terms {
         display: block;
         height: 200px;
         width: 90%;
         padding: 0.5rem;
-        margin: 1.5rem 0 0 15px;
-        border: 1px solid grey;
+        margin: 15px 5px;
+        border: 5px solid black;
         overflow: scroll;
     }
-    .bold {
-        font-weight: bold;
+    #contact-image-bottom{
+        max-width: 30vw;
+        margin: 20px 10px 20px 0;
     }
 
     .google-maps-align {
