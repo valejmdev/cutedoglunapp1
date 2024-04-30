@@ -23,25 +23,25 @@ a {
 header {
     background-color: #006954;
     height: 250px;
-    width: 100vw;
+
 }
 
 header a {
     color: black;
 }
-.hero-container{
-    width:100vw;
-}
+
 .navbar-div {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
+    padding: 0 15px;
 }
 
 .header-image-left {
     background: url("luna-pictures/cutedoglunagreeting.webp") no-repeat center center / cover;
     width: 100%;
     height: 200px;
+    padding: 0;
 }
 
 .header-image-right {
@@ -112,11 +112,12 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 15px 5px;
+    margin: 25px 15px;
 }
 
-h3 {
+h2, h3 {
     text-align: center;
+    padding: 10px 0;
 }
 
 .bold {
@@ -129,11 +130,13 @@ h3 {
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
+    margin: 25px 15px;
 }
 
 .homepage-text h1 {
     font-weight: 500;
     font-size: x-large;
+    text-align: center;
 }
 #bio-container{
     display: flex;
@@ -156,6 +159,7 @@ h3 {
     margin: 15px 5px;
     border: 5px solid #715F58;
     background-color: #EFFCF8;
+    padding: 15px 10px;
 }
 
 .image-container{
@@ -201,7 +205,7 @@ h3 {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    margin: 10px 0;
+    margin: 20px 0;
 }
 
 .form-input-align {
@@ -229,7 +233,9 @@ h3 {
 
 .contact-image-bottom {
     max-width: 350px;
-    margin: 20px 10px 20px 0;
+    margin: 20px 0 0 0;
+    display: flex;
+    justify-content: center;
 }
 
 .google-maps-align {
@@ -329,7 +335,12 @@ footer {
         display: block;
     }
 
-
+    .navbar-div {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        padding: 0;
+    }
     #navbar-center{
         display: flex;
         flex-direction: row;
@@ -353,8 +364,8 @@ footer {
         font-size: 280%;
         line-height: 75px;
         position: absolute;
-        top: 0;
-        left: 0;
+        top:185px;
+        left:10px;
 
     }
 
@@ -401,7 +412,7 @@ footer {
 
     .service-box {
         margin-left: 10px;
-        padding: 5px;
+        padding: 15px 10px;
         border: 5px solid #715F58;
         background-color: #EFFCF8;
     }
