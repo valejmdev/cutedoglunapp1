@@ -8,7 +8,7 @@
 }
 
 body {
-    background-color: #75A7B9;
+    background-color: #f1ede7;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -21,7 +21,7 @@ a {
 
 /*header area*/
 header {
-    background-color: rgb(98 77 50);
+    background-color: #006954;
     height: 250px;
     width: 100vw;
 }
@@ -153,8 +153,9 @@ h3 {
 }
 
 .service-box {
-    border: 5px solid black;
     margin: 15px 5px;
+    border: 5px solid #715F58;
+    background-color: #EFFCF8;
 }
 
 .image-container{
@@ -165,6 +166,9 @@ h3 {
 
 .contact-image-top {
     display: none;
+}
+#form-div {
+    border: 5px solid #715F58;
 }
 
 .form-input-container {
@@ -186,6 +190,10 @@ h3 {
 }
 .form-input-align label{
     width: 90px;
+}
+.form-radio-input label{
+    width:100%;
+    margin-left: 15px;
 }
 
 #terms {
@@ -266,12 +274,11 @@ h3 {
 
 /*footer area*/
 footer {
-    background-color: rgb(98 77 50);
+    background-color: #006954;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     min-height: 50px;
-
 }
 
 /*larger devices (laptop and desktop)*/
@@ -287,8 +294,8 @@ footer {
         position: absolute;
         box-shadow: none;
         width: fit-content;
-        top: 160px;
-        left: 0;
+        top: 200px;
+        left: 33%;
         background-color: unset;
     }
 
@@ -301,12 +308,20 @@ footer {
         display: block;
     }
 
+
+    #navbar-center{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        
+    }
+
     #navbar-burger {
         display: flex;
     }
 
     #navbar-burger>li {
-        padding-left: 1rem;
+        padding-left: 2rem;
     }
 
     .navbar-toggle-label {
@@ -366,7 +381,8 @@ footer {
     .service-box {
         margin-left: 10px;
         padding: 5px;
-        border: 5px solid black;
+        border: 5px solid #715F58;
+        background-color: #EFFCF8;
     }
 
     .contact-form-align {
@@ -384,6 +400,11 @@ footer {
     
     #form-div {
         width: 30vw;
+        border: 3px dotted #715F58;
+        margin: 15px 0;
+    }
+    fieldset{
+        border: 1px double #715F58;
     }
 
     #terms-link {
@@ -396,12 +417,17 @@ footer {
         width: 90%;
         padding: 0.5rem;
         margin: 15px 5px;
-        border: 5px solid black;
+        border: 5px solid #715F58;
         overflow: scroll;
+        background-color: #EFFCF8;
     }
     .contact-image-bottom{
         max-width: 30vw;
         margin: 20px 10px 20px 0;
+    }
+    button {
+        padding: 15px;
+        margin: 20px;
     }
 
     .google-maps-align {
@@ -415,7 +441,7 @@ footer {
         background-color: #fafafa;
         text-align: center;
         width: 35%;
-        border: 5px solid black;
+        border: 5px solid #715F58;
         border-radius: 5%;
         height: 200px;
         margin: 20px;
