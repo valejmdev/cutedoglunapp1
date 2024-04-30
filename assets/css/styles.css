@@ -13,7 +13,6 @@ body {
     flex-direction: column;
     min-height: 100vh;
     color: black;
-    overflow: auto;
 }
 
 a {
@@ -30,7 +29,9 @@ header {
 header a {
     color: black;
 }
-
+.hero-container{
+    width:100vw;
+}
 .navbar-div {
     display: flex;
     justify-content: space-between;
@@ -134,7 +135,15 @@ h3 {
     font-weight: 500;
     font-size: x-large;
 }
+#bio-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 
+}
+#bio-container:first-child {
+    padding: 20px 10px 20px 0;
+}
 #bio-text {
     margin: 0 5px 15px 5px;
 }
@@ -148,15 +157,13 @@ h3 {
     margin: 15px 5px;
 }
 
-#bio-image {
-    min-height: 300px;
-    max-height: 500px;
-    min-width: 280px;
-    max-width: 350px;
-    margin: 20px 10px 20px 0;
+.image-container{
+    width: 100%;
+    max-width: 300px;
+    height: auto;
 }
 
-#contact-image-top {
+.contact-image-top {
     display: none;
 }
 
@@ -177,6 +184,9 @@ h3 {
     flex-direction: row;
     margin: 5px;
 }
+.form-input-align label{
+    width: 90px;
+}
 
 #terms {
     display: none;
@@ -188,10 +198,7 @@ h3 {
     align-items: center;
 }
 
-#contact-image-bottom {
-    min-height: 300px;
-    max-height: 500px;
-    min-width: 280px;
+.contact-image-bottom {
     max-width: 350px;
     margin: 20px 10px 20px 0;
 }
@@ -329,11 +336,12 @@ footer {
         justify-content: flex-start;
     }
 
-    #bio-image {
+    .bio-image {
         min-height: 300px;
         max-height: 500px;
         min-width: 280px;
         max-width: 280px;
+        padding-top: 33px;
     }
 
     #bio-column {
@@ -364,9 +372,11 @@ footer {
     .contact-form-align {
         display: flex;
         flex-direction: row;
+        justify-content: space-evenly;
+        align-items: center;
     }
 
-    #contact-image-top {
+    .contact-image-top {
         display: block;
         max-width: 30vw;
         margin: 20px 10px 20px 0;
@@ -389,7 +399,7 @@ footer {
         border: 5px solid black;
         overflow: scroll;
     }
-    #contact-image-bottom{
+    .contact-image-bottom{
         max-width: 30vw;
         margin: 20px 10px 20px 0;
     }
