@@ -231,11 +231,13 @@ h2, h3 {
     align-items: center;
 }
 
+.contact-bottom-image-div{
+    display: flex;
+    justify-content: center;
+}
 .contact-image-bottom {
     max-width: 350px;
     margin: 20px 0 0 0;
-    display: flex;
-    justify-content: center;
 }
 
 .google-maps-align {
