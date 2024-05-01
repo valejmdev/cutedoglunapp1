@@ -38,14 +38,14 @@ header a {
 }
 
 .header-image-left {
-    background: url("luna-pictures/cutedoglunagreeting.webp") no-repeat center center / cover;
+    background: url("/assets/luna-pictures/cutedoglunagreeting.jpg") no-repeat center center / cover;
     width: 100%;
     height: 200px;
     padding: 0;
 }
 
 .header-image-right {
-    background: url("luna-pictures/cutedoglunaballclose.webp") no-repeat center center / cover;
+    background: url("/assets/luna-pictures/cutedoglunaballclose.jpg") no-repeat center center / cover;
     display: none;
     width: 100%;
     height: 200px;
@@ -159,7 +159,7 @@ h2, h3 {
     margin: 15px 5px;
     border: 5px solid #715F58;
     background-color: #EFFCF8;
-    padding: 15px 10px;
+    padding: 15px 15px;
 }
 
 .image-container{
@@ -212,6 +212,7 @@ h2, h3 {
 }
 #form-div {
     border: 5px solid #715F58;
+    margin: 0 5px;
 }
 
 .form-input-container {
@@ -224,6 +225,7 @@ h2, h3 {
     flex-direction: column;
     align-items: flex-start;
     margin: 20px 0;
+    padding: 10px 5px;
 }
 
 .form-input-align {
@@ -237,6 +239,9 @@ h2, h3 {
 .form-radio-input label{
     width:100%;
     margin-left: 15px;
+}
+.form-text-align{
+    text-align: center;
 }
 
 #terms {
@@ -473,7 +478,7 @@ footer a{
     
     #form-div {
         width: 30vw;
-        border: 3px dotted #715F58;
+        border: 5px form #715F58;
         margin: 15px 0;
     }
     fieldset{
