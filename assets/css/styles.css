@@ -525,7 +525,7 @@ footer a {
 
     #form-div {
         width: 30vw;
-        border: 5px form #715F58;
+        border: 5px solid #715F58;
         margin: 15px 0;
     }
 
@@ -539,7 +539,7 @@ footer a {
     }
 
     #terms-link {
-        display: hidden;
+        display: none;
     }
 
     #terms {
