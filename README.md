@@ -24,7 +24,7 @@ This website has been created as the first Milestone project for Code Institute'
  4. [Testing](#Testing)
 	  1. [General Testing](#General-Testing)
 	  2. [Mobile Testing](#Mobile-Testing)
-	  3. [Desktop Testing](#Desktop Testing)
+	  3. [Desktop Testing](#Desktop-Testing)
 	  4. [Functionality](#Functionality) 
  5. [User Stories Met](#User-Stories-Met)
  6. [Bugs](#Bugs)
