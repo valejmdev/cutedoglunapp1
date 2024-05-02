@@ -562,6 +562,10 @@ footer a {
         padding: 15px;
         margin: 20px;
     }
+    .headline-maps-align{
+        display: flex;
+        flex-direction: column;
+    }
 
     .google-maps-align {
         display: flex;
