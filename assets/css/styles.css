@@ -20,12 +20,12 @@ a {
     text-decoration: none;
 }
 
-.bigger-text:hover{
+.bigger-text:hover {
     font-size: 1.1em;
     font-weight: 700;
 }
 
-.bigger-box:hover{
+.bigger-box:hover {
     transform: scale(1.1);
     transition: transform 0.1s;
 }
@@ -80,7 +80,8 @@ header a {
     margin-bottom: 1em;
     color: black;
 }
-.active-page{
+
+.active-page {
     text-decoration: underline;
 }
 
@@ -129,7 +130,8 @@ main {
     margin: 25px 15px;
 }
 
-h2, h3 {
+h2,
+h3 {
     text-align: center;
     padding: 10px 0;
 }
@@ -152,15 +154,18 @@ h2, h3 {
     font-size: x-large;
     text-align: center;
 }
-#bio-container{
+
+#bio-container {
     display: flex;
     flex-direction: column;
     align-items: center;
 
 }
+
 #bio-container:first-child {
     padding: 20px 10px 20px 0;
 }
+
 #bio-text {
     margin: 0 5px 15px 5px;
 }
@@ -176,17 +181,19 @@ h2, h3 {
     padding: 15px 15px;
 }
 
-.image-container{
+.image-container {
     width: 100%;
     max-width: 300px;
     height: auto;
 }
-.contact-page-button-align{
+
+.contact-page-button-align {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-.contact-page-button-box{
+
+.contact-page-button-box {
     padding: 20px 10px;
     border: 5px solid #715F58;
     margin: 10px;
@@ -195,27 +202,30 @@ h2, h3 {
     font-size: large;
     font-weight: 600;
 }
-.contact-page-button-box a{
-    color:#006954;
+
+.contact-page-button-box a {
+    color: #006954;
 }
 
-.gallery-container{
+.gallery-container {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-.gallery-image{
+
+.gallery-image {
     width: 100%;
     max-width: 300px;
     height: auto;
 }
 
-.gallery-image-div{
-    padding:10px;
+.gallery-image-div {
+    padding: 10px;
     margin: 10px;
-    max-width: 350px; 
+    max-width: 350px;
 }
-.gallery-container p{
+
+.gallery-container p {
     max-width: 350px;
     margin-top: 5px;
     border: 1px dotted #715F58;
@@ -225,6 +235,7 @@ h2, h3 {
 .contact-image-top {
     display: none;
 }
+
 #form-div {
     border: 5px solid #715F58;
     margin: 0 5px;
@@ -246,14 +257,17 @@ h2, h3 {
     flex-direction: row;
     margin: 5px;
 }
-.form-input-align label{
+
+.form-input-align label {
     width: 90px;
 }
-.form-radio-input label{
-    width:100%;
+
+.form-radio-input label {
+    width: 100%;
     margin-left: 15px;
 }
-.form-text-align{
+
+.form-text-align {
     text-align: center;
 }
 
@@ -267,10 +281,11 @@ h2, h3 {
     align-items: center;
 }
 
-.contact-bottom-image-div{
+.contact-bottom-image-div {
     display: flex;
     justify-content: center;
 }
+
 .contact-image-bottom {
     max-width: 350px;
     margin: 20px 0 0 0;
@@ -345,17 +360,19 @@ footer {
     align-items: center;
     min-height: 50px;
 }
-footer p{
-    color:#EFFCF8; 
+
+footer p {
+    color: #EFFCF8;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-footer a{
-    color:#EFFCF8;
+
+footer a {
+    color: #EFFCF8;
 }
- 
-    
+
+
 
 
 /*larger devices (laptop and desktop)*/
@@ -390,11 +407,12 @@ footer a{
         align-items: baseline;
         padding: 0;
     }
-    #navbar-center{
+
+    #navbar-center {
         display: flex;
         flex-direction: row;
         justify-content: center;
-        
+
     }
 
     #navbar-burger {
@@ -413,8 +431,8 @@ footer a{
         font-size: 280%;
         line-height: 75px;
         position: absolute;
-        top:185px;
-        left:10px;
+        top: 185px;
+        left: 10px;
 
     }
 
@@ -466,7 +484,7 @@ footer a{
         background-color: #EFFCF8;
     }
 
-    .gallery-container{
+    .gallery-container {
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
@@ -474,20 +492,24 @@ footer a{
         justify-content: space-between;
         align-items: center;
     }
-    .gallery-image-div{
-        padding:10px;
+
+    .gallery-image-div {
+        padding: 10px;
         margin: 10px;
-        max-width:  500px; 
+        max-width: 500px;
     }
-    .gallery-image{
+
+    .gallery-image {
         width: 50%;
         max-width: 350px;
-        height:auto;
-    }    
-    .gallery-image-div p{
-        max-width: 225px;
-        
+        height: auto;
     }
+
+    .gallery-image-div p {
+        max-width: 225px;
+
+    }
+
     .contact-form-align {
         display: flex;
         flex-direction: row;
@@ -500,17 +522,19 @@ footer a{
         max-width: 30vw;
         margin: 20px 10px 20px 0;
     }
-    
+
     #form-div {
         width: 30vw;
         border: 5px form #715F58;
         margin: 15px 0;
     }
-    .form-input{
+
+    .form-input {
         margin: 20px 0;
         padding: 10px 5px;
     }
-    fieldset{
+
+    fieldset {
         border: 1px double #715F58;
     }
 
@@ -528,10 +552,12 @@ footer a{
         overflow: scroll;
         background-color: #EFFCF8;
     }
-    .contact-image-bottom{
+
+    .contact-image-bottom {
         max-width: 30vw;
         margin: 20px 10px 20px 0;
     }
+
     button {
         padding: 15px;
         margin: 20px;
