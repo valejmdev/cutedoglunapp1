@@ -69,6 +69,9 @@ header a {
     margin-bottom: 1em;
     color: black;
 }
+#navbarburger ul li a.active-page{
+    text-decoration: underline;
+}
 
 /* Create a dropdown styled nav bar */
 nav {
@@ -225,8 +228,6 @@ h2, h3 {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    margin: 20px 0;
-    padding: 10px 5px;
 }
 
 .form-input-align {
@@ -333,9 +334,18 @@ footer {
     align-items: center;
     min-height: 50px;
 }
+footer p{
+    color:#EFFCF8; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 footer a{
     color:#EFFCF8;
 }
+ 
+    
+
 
 /*larger devices (laptop and desktop)*/
 @media only screen and (min-width: 992px) {
@@ -346,12 +356,11 @@ footer a{
     }
 
     nav {
-        display: block;
+        display: flex;
+        justify-content: center;
         position: absolute;
         box-shadow: none;
-        width: fit-content;
         top: 200px;
-        left: 33%;
         background-color: unset;
     }
 
@@ -485,6 +494,10 @@ footer a{
         width: 30vw;
         border: 5px form #715F58;
         margin: 15px 0;
+    }
+    .form-input{
+        margin: 20px 0;
+        padding: 10px 5px;
     }
     fieldset{
         border: 1px double #715F58;

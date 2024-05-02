@@ -26,7 +26,7 @@
                     <ul id="navbar-burger">
                         <li><a href="index.html">Home</a></li>
                         <li><a href="gallery.html">Gallery</a></li>
-                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="contact.html" class="active-page">Contact</a></li>
                     </ul>
                 </nav>
             </div>
@@ -43,7 +43,7 @@
         </div>
     </header>
     <main>
-        <h1>Let's Play Together!</h1>
+        <h2>Let's Play Together!</h2>
         <div class="service-column">
             <!-- Services Text 1-->
             <div class="service-box">
@@ -84,6 +84,7 @@
             <!-- Services form-->
             <div id="form-div">
                 <form action="https://formdump.codeinstitute.net/" method="post" target="_blank">
+                    
                     <!--Class created to change the layout of the whole Input part of the form-->
                     <div class="form-input-container">
                         <!-- Personal Information Input-->
@@ -92,16 +93,16 @@
                                 <legend class="bold">Personal Information</legend>
                             </div>
                             <div class="form-input-align">
-                                <input type="text" name="fname" required>
                                 <label for="fname" class="bold">First Name:</label>
+                                <input type="text" name="fname" aria-label="First Name" required>
                             </div>
                             <div class="form-input-align">
-                                <input type="text" name="lname" required>
                                 <label for="lname" class="bold">Last Name:</label>
+                                <input type="text" name="lname" aria-label="Last Name" required>
                             </div>
                             <div class="form-input-align">
-                                <input type="email" name="email" required>
                                 <label for="email" class="bold">E-Mail:</label>
+                                <input type="email" name="email" aria-label="E-mail Address" required>
                             </div>
                         </fieldset>
                         <!-- Service Choice Radio Input-->
@@ -120,9 +121,6 @@
                                     <label for="option3">Woodland Adventure Walk</label>
                                 </div>
 
-
-
-
                             </div>
                         </fieldset>
 
@@ -133,7 +131,8 @@
                                 </p>
                             </div>
                             <div id="terms">
-                                <h5 class="underline">OFFICIAL Terms and Conditions for a Meeting with Cute Dog luna</h5>
+                                <h5 class="underline">OFFICIAL Terms and Conditions for a Meeting with Cute Dog luna
+                                </h5>
                                 <p></p>
                                 <p><span class="bold">Booking Process:
                                         All bookings are subject to availability. To confirm a
@@ -220,9 +219,9 @@
     </section>
     <footer>
         <!-- Footer Social Media Links -->
-        <p><a href="https://www.facebook.com/"><i class="fa-brands fa-facebook"></i></a></p>
-        <p><a href="https://www.instagram.com/"><i class="fa-brands fa-instagram"></i></a></p>
-        <p><a href="https://www.twitter.com/"><i class="fa-brands fa-twitter"></i></a></p>
+        <p><a href="https://www.facebook.com/" aria-label="See more on Facebook"><i class="fa-brands fa-facebook"></i></a>Facebook</p>
+        <p><a href="https://www.instagram.com/" aria-label="See more on Instagram"><i class="fa-brands fa-instagram"></i></a>Instagram</p>
+        <p><a href="https://www.twitter.com/" aria-label="See more on Twitter"><i class="fa-brands fa-twitter"></i></a>Twitter</p>
     </footer>
     <script src="https://kit.fontawesome.com/fa4660e17d.js" crossorigin="anonymous"></script>
 </body>
