@@ -104,15 +104,15 @@
                             </div>
                             <div class="form-input-align">
                                 <label for="fname" class="bold">First Name:</label>
-                                <input type="text" name="fname" aria-label="First Name" required>
+                                <input type="text" name="fname" aria-label="Enter First Name" required>
                             </div>
                             <div class="form-input-align">
                                 <label for="lname" class="bold">Last Name:</label>
-                                <input type="text" name="lname" aria-label="Last Name" required>
+                                <input type="text" name="lname" aria-label="Enter Last Name" required>
                             </div>
                             <div class="form-input-align">
                                 <label for="email" class="bold">E-Mail:</label>
-                                <input type="email" name="email" aria-label="E-mail Address" required>
+                                <input type="email" name="email" aria-label="Enter E-mail Address" required>
                             </div>
                         </fieldset>
                         <!-- Service Choice Radio Input-->
@@ -137,12 +137,12 @@
                         <!--Terms and Conditions-->
                         <div>
                             <div class="form-text-align">
-                                <p>Please read our <a>Terms and Conditions</a> and accept to book your desired Service!
+                                <p>Please read our <strong>Terms and Conditions</strong> and accept to book your desired Service!
                                 </p>
                             </div>
                             <div id="terms">
-                                <h5 class="underline">OFFICIAL Terms and Conditions for a Meeting with Cute Dog luna
-                                </h5>
+                                <h4 class="underline">OFFICIAL Terms and Conditions for a Meeting with Cute Dog luna
+                                </h4>
                                 <p></p>
                                 <p><span class="bold">Booking Process:
                                         All bookings are subject to availability. To confirm a
@@ -184,8 +184,9 @@
                             <!--Checkbox for Terms and Conditions-->
                             <div id="submit-area">
                                 <div class="service-box">
-                                    <input type="checkbox" required>
-                                    <label>I accept the Terms and Conditions.</label>
+                                    <label for="accept-terms" aria-label="Check to accept the Terms and Conditions" class="bold">
+                                    <input type="checkbox" name="accept-terms" required>
+                                    I accept the Terms and Conditions.</label>
                                 </div>
                                 <div>
                                     <button type="submit">
