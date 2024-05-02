@@ -17,6 +17,17 @@ body {
 
 a {
     color: black;
+    text-decoration: none;
+}
+
+.bigger-text:hover{
+    font-size: 1.1em;
+    font-weight: 700;
+}
+
+.bigger-box:hover{
+    transform: scale(1.1);
+    transition: transform 0.1s;
 }
 
 /*header area*/
@@ -69,7 +80,7 @@ header a {
     margin-bottom: 1em;
     color: black;
 }
-#navbarburger ul li a.active-page{
+.active-page{
     text-decoration: underline;
 }
 
