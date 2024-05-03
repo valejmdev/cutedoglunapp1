@@ -6,7 +6,7 @@
 -   The site was sent to friends for feedback and testing.
 -   All forms have validation and will not submit without the proper information.
 -   .gitignore file has been included to prevent system file commits.
--   The image loading blur has been thoroughly tested and gone through numerous iterations to optimise the smoothness of the transition on different devices and internet speeds.
+-   The image loading blur has been thoroughly tested and gone through numerous iterations to   optimized the smoothness of the transition on different devices and internet speeds.
 -   Backup Map functions have been tested in a local deployment.
 -   Email error functions have been tested offline as well.
 -   External links open in a new tab.
@@ -15,7 +15,7 @@
 
 -   I tested the site personally on my Android device, going through the entire process, checking buttons, functions, checking out, etc. I was personally unable to test on iOS.
 -   The site was sent to friends and relatives for them to follow the same process. They have tested on their devices, only missing iOS devices.
-- The testing was done using the Google Chrome Browser. Chrome Developer Tools was used extensively, particularly to check responsiveness on different screen sizes. Testing was also done using Firefox and Opera on desktop, and again on Google Chrome and Opera and Brave on the Nothing Phone (2).
+- The testing was done using the Google Chrome Browser. Chrome Developer Tools were used extensively, particularly to check responsiveness on different screen sizes. Testing was also done using Firefox and Opera on desktop, and again on Google Chrome and Opera and Brave on the Nothing Phone (2).
 -   Responsive on all device sizes between 320px - 2600px wide.
 - 
 -   Devices tested using the Google Developer Tools emulator:
@@ -54,11 +54,11 @@
 -   All social media links work correctly and open on a new tab.
 -   All images load on each page as intended.
 -   All the buttons are working correctly and bring the users to the function that they were built for.
--   I have checked that the contact form requires valid inputs and can't be submited without them.
+-   I have checked that the contact form requires valid inputs and can't be submitted without them.
 
 ## Website Development Issues
     
-At the initial stages of my project, I made an error how and when to use GitCommit and GitPush. Following my second call with my mentor he clarified how to do it and I have followed his recommended approach.
+At the initial stages of my project, I made an error how and when to use GitCommit and GitPush. Following my second call with my mentor, he clarified how to do it, and I have followed his recommended approach.
 
 
 ## Technologies Used
@@ -66,8 +66,8 @@ At the initial stages of my project, I made an error how and when to use GitComm
 For the purpose of this project, the following technologies were used.
 
 ### Languages:
-**HTML**
-**CSS**
+- **HTML**
+- **CSS**
 ***
 ### Frameworks, Libraries, Programs & Applications Used:
 **Google Font**
@@ -91,11 +91,11 @@ Google Dev Tools was used to edit code and check responsiveness before making th
 
 ## Bugs
 
-This table summarizes the encountered issues, their current status, and any actions taken to address them.
+This table summarizes the issues encountered, their current status, and any actions taken to address them.
 
 | Issue                                                          | Status                                        |
 |----------------------------------------------------------------|-----------------------------------------------|
-| Display error of Header backgroud images on certain sizes      | ✅ fixed with deleting width from 2 style rules |
+| Display error of Header background images on certain sizes      | ✅ fixed with deleting width from 2 style rules |
 | Layout error on Gallery Page                                   | ✅ fixed with using flexbox and creating more divs |
 | Navbar position error, leaving the page to the side            | ✅ fixed by giving padding and deleting margin from certain elements |
 | Integration error of calend.ly for availability of Bookings    | ❌ not fixed, due to missing time, will be implemented in the future |
@@ -168,4 +168,4 @@ The live link can be found here:  [Cute Dog Luna](https://valejmdev.github.io/cu
 7.  Type 'git clone' and paste the URL copied in step 3.
 8.  Press 'Enter' and the project is cloned.
 
-Further Information on how to deploy the project on VSCode and even more can be found [here](https://github.com/MicrosoftDocs/visualstudio-docs/blob/main/docs/get-started/tutorial-open-project-from-repo.md)!
+Further Information on how to deploy the project on VS Code and even more can be found [here](https://github.com/MicrosoftDocs/visualstudio-docs/blob/main/docs/get-started/tutorial-open-project-from-repo.md)!
