@@ -29,7 +29,6 @@
 -   The site was sent to friends and relatives for them to follow the same process. They have tested on their devices, only missing iOS devices.
 - The testing was done using the Google Chrome Browser. Chrome Developer Tools were used extensively, particularly to check responsiveness on different screen sizes. Testing was also done using Firefox and Opera on desktop, and again on Google Chrome and Opera and Brave on the Nothing Phone (2).
 -   Responsive on all device sizes between 320px - 2600px wide.
-- 
 -   Devices tested using the Google Developer Tools emulator:
 
 
