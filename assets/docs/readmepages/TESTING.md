@@ -117,13 +117,12 @@ This table summarizes the issues encountered, their current status, and any acti
 ### W3C HTML: 
 I used the [W3C HTML Validator](https://validator.w3.org/nu/)
 
-| Environment         | Page   | Screenshot                                    |
-|---------------------|--------|-----------------------------------------------|
-| Home                |        | ![W3C HTML Validation Index](../readmescreenshots/w3cvalidatorindex.png) |
-| Gallery             |        | ![W3C HTML Validation Gallery](../readmescreenshots/w3cvalidatorgallery.png) |
-| Contact             |        | ![W3C HTML Validation Contact](../readmescreenshots/w3cvalidatorcontact.png) |
-
-
+| Pages    | Screenshot                                    |
+|----------|-----------------------------------------------|
+| Home     | ![W3C HTML Validation Index](../readmescreenshots/w3cvalidatorindex.png) |
+| Gallery  | ![W3C HTML Validation Gallery](../readmescreenshots/w3cvalidatorgallery.png) |
+| Contact  | ![W3C HTML Validation Contact](../readmescreenshots/w3cvalidatorcontact.png) |
+| 404 	   | ![W3C HTML Validation 404](../readmescreenshots/w3cvalidatiorfourofour.png) |
 
 ### W3C Jigsaw: 
 I used the [W3C CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator/)
