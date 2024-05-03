@@ -232,6 +232,13 @@ This is to ensure the User stays motivated to meet Luna.
 
 ![Congratulation Page after submitting](assets/docs/readmescreenshots/forminputvaliddesktopcdlunapp1.png)
 
+### 404 Error
+
+- I have created a custom 404 Page, to give the user more control to get back to the main pages.
+- This ensures the User stays on my website and can find his way back more easily.
+
+![404 Page](assets/docs/readmescreenshots/fourofourdesktopcdlunapp1.png)
+
 ### Missing Features
 - I only miss one feature i planned in preparation of this project.
 The Feature i miss is a calender view on the Contact page, showing availability for possible bookings.
