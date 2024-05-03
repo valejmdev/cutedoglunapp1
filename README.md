@@ -260,9 +260,9 @@ I took a lot of Inspiration from the Coders Coffehouse project and the Love Runn
 
 
 ## Acknowledgements: 
-A very special thanks to Pascal and Lorenz, two of the most helpful peers i wouldn't ever miss.
-Pascal:
-Lorenz:
+A very special thanks to Pascal and Lorenz, two of the most helpful peers i wouldn't ever want to miss.
+They have helped me tremendously with ideas, fixes and feedback.
+I also want to thank my Mentor Rory-Patrick who gave me so many tips and tricks, and inspired me along the way.
 Also very special thanks to my dog who not only seems to have written all the texts, posed for pictures and provided emotional support.
 I thank all my peers in my course who provided a lot of support and feedback!
 I thank all my family members and friends who not only gave feedback and support but also tested it on their devices.
