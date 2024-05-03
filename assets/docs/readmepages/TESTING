@@ -60,6 +60,35 @@
     
 At the initial stages of my project, I made an error how and when to use GitCommit and GitPush. Following my second call with my mentor he clarified how to do it and I have followed his recommended approach.
 
+
+## Technologies Used
+
+For the purpose of this project, the following technologies were used.
+
+### Languages:
+**HTML**
+**CSS**
+***
+### Frameworks, Libraries, Programs & Applications Used:
+**Google Font**
+Google fonts were used to import the following fonts Montserrat and Lato. These were imported to style.css and were used throughout the project.
+**Font Awesome**
+Font Awesome was used on each page of the website to provide icons for UX purposes.
+**GitPod**
+GitPod was used for writing all the code for this project. It was also used to commit and push to GitHub.
+**VSCODE**
+VSCOODE was used for writing and testing the code localy for this project. It was also used in combination with GitPod.
+**GitHub**
+GitHub was used to store this project.
+**GitPages**
+GitPages was used to deploy the project.
+**Balsamiq**
+Balsamiq was used to draw initial Wireframes for this project.
+**Am I Responsive**
+Am I Responsive was used to check that each page of the site was responsive. It was also used to create the mock-up image seen at the beginning of this document.
+**Google Development Tools**
+Google Dev Tools was used to edit code and check responsiveness before making the changes permanent.
+
 ## Bugs
 
 This table summarizes the encountered issues, their current status, and any actions taken to address them.
