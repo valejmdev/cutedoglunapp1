@@ -222,6 +222,11 @@ If this page is displayed, the form element works as intended.
 
 ![Congratulation Page after submitting](assets/docs/readmescreenshots/forminputvaliddesktopcdlunapp1.png)
 
+### Missing Features
+I only miss one feature i planned in preparation of this project.
+The Feature i miss is a Calender view on the Contact page, showing availability for possible bookings.
+I wish to implement this feature in the future, but could not include it with the time given.
+
 ## Testing
 **Due to the length of my Testing Section i have created an extra Page**
 [Click Here](assets/docs/readmepages/TESTING.md)
