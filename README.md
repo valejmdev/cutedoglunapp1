@@ -123,11 +123,11 @@ To see all Wireframe click [here](assets/docs/WIREFRAMES.md)
 ### Color: 
 I have been inspired by the design of this [Website](https://www.thekennelclub.org.uk).
 With that i inspiration i created a color pallete [here](https://mycolor.space/?hex=%23006954&sub=1)
-On the website mycolor.space i chose the Discrete Palette:
+On the website mycolor.space i chose the Discrete Palette, because the colors corresponds with the colors of the images i uploaded:
 ![Discrete Palette mycolor.space](assets/docs/readmescreenshots/descretplatedesigncdlunapp1.png)
 
 I tested my Color Contrast with this [Website](https://coolors.co/contrast-checker/fafafa-006954)
-I got the following values:
+I got the following values, which solidified my design choice:
 ![Contrast Checker Body Text](assets/docs/readmescreenshots/contrast1cdlunapp1.png)
 ![Contrast Checker Header and Footer](assets/docs/readmescreenshots/contrast2cdlunapp1.png)
 ***
@@ -136,11 +136,9 @@ I chose the current font, the Montserrat font family, as it is  a modern and ver
 [Google Fonts "Montserrat-Font"](https://fonts.google.com/specimen/Montserrat?preview.text=Cute%20dog%20Luna&query=Mon)
 ***
 ### Images: 
-All Images were taken by myself and Luna, Cesar and Flora gave consent to upload them.
-
-## Features: 
-
-
+All Images were taken by myself and Luna, Cesar and Flora gave consent to upload them. 
+I relied only on my own images, to avoid any copyright issues and to learn how to properly treat images i have taken myself.
+***
 ## Features: 
 ### General: 
 The Header Element shows 1 to 2 pictures depending on screensize.
@@ -203,12 +201,14 @@ I have added another Call to Action box to the gallery to encouriging the user t
 ### Contact: 
 I have added the 3 Serviceboxes that describe the possible bookings the user can choose from again on the contact page to make it easier to choose the desired option on the contact form.
 I added a hover Animation for UX that increase the size of the boxes.
+
 ![3 Service boxes with description](assets/docs/readmescreenshots/serviceboxescontactdesktopcdlunapp1.png)
 
 The Form Element has 3 fieldsets.
 One for the personal information to contact the user and enable a fluid booking process.
 Another for the desired Option of Services the user can choose from.
 At last there is a part for the Terms and Conditions and the submition of the contact form.
+
 ![Form Element with input](assets/docs/readmescreenshots/formzoomdesktopcdlunapp1.png)
 
 On the left and right side of the contact form, Luna will watch you with an excited focus.
@@ -229,6 +229,7 @@ I wish to implement this feature in the future, but could not include it with th
 
 ## Testing
 **Due to the length of my Testing Section i have created an extra Page**
+
 [Click Here](assets/docs/readmepages/TESTING.md)
 
 

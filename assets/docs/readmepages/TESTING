@@ -13,8 +13,6 @@
 
 ### Mobile Testing
 
-[](https://github.com/Ri-Dearg/horizon-photo/blob/master/README.md#mobile-testing)
-
 -   I tested the site personally on my Android device, going through the entire process, checking buttons, functions, checking out, etc. I was personally unable to test on iOS.
 -   The site was sent to friends and relatives for them to follow the same process. They have tested on their devices, only missing iOS devices.
 - The testing was done using the Google Chrome Browser. Chrome Developer Tools was used extensively, particularly to check responsiveness on different screen sizes. Testing was also done using Firefox and Opera on desktop, and again on Google Chrome and Opera and Brave on the Nothing Phone (2).
@@ -70,15 +68,15 @@ I used the [W3C HTML Validator](https://validator.w3.org/nu/)
 
 | Environment         | Page   | Screenshot                                    |
 |---------------------|--------|-----------------------------------------------|
-| Home                |        | ![W3C HTML Validation Index](assets/docs/readmescreenshots/w3cvalidatorindex.png) |
-| Gallery             |        | ![W3C HTML Validation Gallery](assets/docs/readmescreenshots/w3cvalidatorgallery.png) |
-| Contact             |        | ![W3C HTML Validation Contact](assets/docs/readmescreenshots/w3cvalidatorcontact.png) |
+| Home                |        | ![W3C HTML Validation Index](../readmescreenshots/w3cvalidatorindex.png) |
+| Gallery             |        | ![W3C HTML Validation Gallery](../readmescreenshots/w3cvalidatorgallery.png) |
+| Contact             |        | ![W3C HTML Validation Contact](../readmescreenshots/w3cvalidatorcontact.png) |
 
 
 
 ### W3C Jigsaw: 
 I used the [W3C CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator/)
-![W3C CSS Validation Jigsaw](assets/docs/readmescreenshots/w3cjigsawvalidatorcss.png)
+![W3C CSS Validation Jigsaw](../readmescreenshots/w3cjigsawvalidatorcss.png)
 
 ## Accessibility: 
 I used the Chrome Lighthouse tool and received different scores for different pages and devices.
