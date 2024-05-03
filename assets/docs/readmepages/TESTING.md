@@ -1,5 +1,17 @@
 ## Testing:  
-
+ 1. [Testing](#Testing)
+	1. [General Testing](#General-Testing)
+	2. [Mobile Testing](#Mobile-Testing)
+	3. [Desktop Testing](#Desktop-Testing)
+	4. [Functionality](#Functionality)
+ 	5. [Website Development Issues](#Website-Development-Issues)
+ 	6. [Bugs](#Bugs)
+ 	7. [Technologies Used](#Technologies-Used)
+ 	8. [Validation](#Validation)
+	9. [W3C HTML](#W3C-HTML)
+	10. [W3C Jigsaw](#W3C-Jigsaw)
+ 	11. [Accessibility](#Accessibility)
+ 	12. [Deployment](#Deployment)
 ### General Testing
 -   Each feature was developed on the main branch, 
 -   Each time a feature was added, all the functions were tested to see if there was an impact.
