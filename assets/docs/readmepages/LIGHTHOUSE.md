@@ -11,53 +11,53 @@ Tests have been made on 3 different dekstop PC's and 2 Laptops.
 
  **Home page:**
 
-![Lighthouse Local Host Mobile Index](assets/docs/readmescreenshots/lighthouselocalmobileindex.png)
+![Lighthouse Local Host Mobile Index](../readmescreenshots/lighthouselocalmobileindex.png)
 
  **Gallery page:**
 
-![Lighthouse Local Host Mobile Gallery](assets/docs/readmescreenshots/lighthouselocalmobilegallery.png)
+![Lighthouse Local Host Mobile Gallery](../readmescreenshots/lighthouselocalmobilegallery.png)
 
  **Contact page:**
 
-![Lighthouse Local Host Mobile Contact](assets/docs/readmescreenshots/lighthouselocalmobilecontact.png)
+![Lighthouse Local Host Mobile Contact](../readmescreenshots/lighthouselocalmobilecontact.png)
 
 ## Local Host Desktop:
 
  **Home page:**
 
-![Lighthouse Local Host Desktop Index](assets/docs/readmescreenshots/lighthouselocaldesktopindex.png)
+![Lighthouse Local Host Desktop Index](../readmescreenshots/lighthouselocaldesktopindex.png)
 
  **Gallery page:**
-![Lighthouse Local Host Desktop Gallery](assets/docs/readmescreenshots/lighthouselocaldesktopgallery.png)
+![Lighthouse Local Host Desktop Gallery](../readmescreenshots/lighthouselocaldesktopgallery.png)
 
  **Contact page:**
 
-![Lighthouse Local Host Desktop Contact](assets/docs/readmescreenshots/lighthouselocaldesktopcontact.png)
+![Lighthouse Local Host Desktop Contact](../readmescreenshots/lighthouselocaldesktopcontact.png)
 
 ## Github Pages Mobile:
 
  **Home page:**
 
-![Lighthouse Github Pages Mobile Index](assets/docs/readmescreenshots/lighthousegithubpagesmobileindex.png)
+![Lighthouse Github Pages Mobile Index](../readmescreenshots/lighthousegithubpagesmobileindex.png)
 
  **Gallery page:**
 
-![Lighthouse Github Pages Mobile Gallery](assets/docs/readmescreenshots/lighthousegithubpagesmobilegallery.png)
+![Lighthouse Github Pages Mobile Gallery](../readmescreenshots/lighthousegithubpagesmobilegallery.png)
 
  **Contact page:**
-![Lighthouse Github Pages Mobile Contact](assets/docs/readmescreenshots/lighthousegithubpagesmobilecontact.png)
+![Lighthouse Github Pages Mobile Contact](../readmescreenshots/lighthousegithubpagesmobilecontact.png)
 
 ## Github Pages Desktop:
 
  **Home page:** 
  Excuse the little Fireworks, i tried my best to hit the best Frame.
 
-![Lighthouse Github Pages Desktop Index](assets/docs/readmescreenshots/lighthousegithubpagesdesktopindex.png)
+![Lighthouse Github Pages Desktop Index](../readmescreenshots/lighthousegithubpagesdesktopindex.png)
 
  **Gallery page:**
 
-![Lighthouse Github Pages Desktop Gallery](assets/docs/readmescreenshots/lighthousegithubpagesdesktopgallery.png)
+![Lighthouse Github Pages Desktop Gallery](../readmescreenshots/lighthousegithubpagesdesktopgallery.png)
 
  **Contact page:**
 
-![Lighthouse Github Pages Desktop Contact](assets/docs/readmescreenshots/lighthousegithubpagesdesktopcontact.png)
+![Lighthouse Github Pages Desktop Contact](../readmescreenshots/lighthousegithubpagesdesktopcontact.png)
