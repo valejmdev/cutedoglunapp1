@@ -89,6 +89,7 @@ By embodying the persona of Sarah, Luna's enthusiastic visitor, the website can 
 4.  **Decision**:
     -   Sarah contemplates Luna's preferences and selects the service that best suits Luna's personality and needs.
     -   Considers Luna's love for cuddling, playing, and outdoor activities to make an informed choice.
+      
 ***
 #### Gallery Page:
 
@@ -97,6 +98,7 @@ By embodying the persona of Sarah, Luna's enthusiastic visitor, the website can 
     -   Admires Luna's adorable poses, playful antics, and heartwarming moments captured in the photos.
     -   Feels a deeper connection with Luna through the visual storytelling of her life and personality.
 
+***
 ### ContactPage:
 
 1.  **Service Selection**:
@@ -108,6 +110,7 @@ By embodying the persona of Sarah, Luna's enthusiastic visitor, the website can 
 
 This detailed user journey crafted for Sarah's persona aims to immerse her in Luna's world, offering a personalized and engaging website experience that resonates with her love for dogs and desire to provide Luna with enriching and enjoyable services.
 ***
+
 ### Wireframes: 
 I created my Wireframes in preparation of the project.
 While creating the website you can see today, i had to change some elements for design and time reasons.
