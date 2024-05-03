@@ -1,6 +1,7 @@
 /* import Google fonts  */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
+/* General Elements Style Rules */
 * {
     padding: 0;
     margin: 0;
@@ -30,7 +31,7 @@ a {
     transition: transform 0.1s;
 }
 
-/*header area*/
+/*header Content Style Rules*/
 header {
     background-color: #006954;
     height: 250px;
@@ -66,6 +67,7 @@ header a {
     color: #fafafa;
 }
 
+/*Mobile Navigation with burger Icon Style Rules*/
 #navbar-burger {
     font-size: 110%;
     letter-spacing: 4px;
@@ -118,16 +120,9 @@ nav {
 }
 
 
-/*Main Content*/
+/*Main Content Style Rules*/
 main {
     flex: 1 0 auto;
-}
-
-.intro-text {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin: 25px 15px;
 }
 
 h2,
@@ -138,6 +133,14 @@ h3 {
 
 .bold {
     font-weight: bold;
+}
+
+/*Index page Content Style Rules*/
+.intro-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 25px 15px;
 }
 
 .homepage-text {
@@ -174,6 +177,7 @@ h3 {
     margin: 0 5px 15px 5px;
 }
 
+/*Style Rules used for Index page and Contact page*/
 .service-box {
     margin: 15px 5px;
     border: 5px solid #715F58;
@@ -181,12 +185,14 @@ h3 {
     padding: 15px 15px;
 }
 
+/*Style Rules for the Images on Home page and Contact page*/
 .image-container {
     width: 100%;
     max-width: 300px;
     height: auto;
 }
 
+/*Used in Index page and Gallery page to highlight Call to Action*/
 .contact-page-button-align {
     display: flex;
     flex-direction: column;
@@ -206,6 +212,8 @@ h3 {
 .contact-page-button-box a {
     color: #006954;
 }
+
+/*Gallery page Content Style Rules*/
 
 .gallery-container {
     display: flex;
@@ -232,10 +240,15 @@ h3 {
     background-color: #EFFCF8;
 }
 
+
+/*Contact page Content Style Rules*/
+
+/*hides the top image in mobile version for better visability*/
 .contact-image-top {
     display: none;
 }
 
+/*Form Input Style Rules*/
 #form-div {
     border: 5px solid #715F58;
     margin: 0 5px;
@@ -271,16 +284,19 @@ h3 {
     text-align: center;
 }
 
+/*Terms & Conditions box Style Rules, hiding the box in mobile version*/
 #terms {
     display: none;
 }
 
+/*Submition Area of the Form Element*/
 #submit-area {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
+/*The always shown and centered bottom image of the contact form*/
 .contact-bottom-image-div {
     display: flex;
     justify-content: center;
@@ -291,6 +307,7 @@ h3 {
     margin: 20px 0 0 0;
 }
 
+/*Google Maps Integration Style Rules*/
 .google-maps-align {
     display: flex;
     flex-direction: column;
@@ -352,7 +369,7 @@ h3 {
     background: none !important;
 }
 
-/*footer area*/
+/*footer Content Style Rules*/
 footer {
     background-color: #006954;
     display: flex;
@@ -378,10 +395,11 @@ footer a {
 
 
 
-/*larger devices (laptop and desktop)*/
+/*This is a media query that targets larger device screen sizes (laptop and desktop) 
+The following Style Rules give the content more space and realigns it to be more pleasing for screens above 992px*/
 @media only screen and (min-width: 992px) {
 
-    /*header area*/
+    /*header Content Style Rules*/
     header a {
         color: #fafafa;
     }
@@ -439,13 +457,13 @@ footer a {
 
     }
 
+    /*Home page Content Style Rules*/
     .homepage-text {
         display: flex;
         font-family: 'Montserrat', sans-serif;
         flex-direction: column;
         justify-content: space-between;
     }
-
 
     #bio-container {
         display: flex;
@@ -474,6 +492,7 @@ footer a {
         padding: 10px 15px 10px 15px;
     }
 
+    /*These style rules are used on the Home page and Contact page*/
     .service-column {
         display: flex;
         flex-direction: row;
@@ -486,6 +505,8 @@ footer a {
         border: 5px solid #715F58;
         background-color: #EFFCF8;
     }
+
+    /*Gallery page Content Style Rules*/
 
     .gallery-container {
         display: flex;
@@ -513,19 +534,22 @@ footer a {
 
     }
 
+    /*Contact page Content Style Rules*/
+
     .contact-form-align {
         display: flex;
         flex-direction: row;
         justify-content: space-evenly;
         align-items: center;
     }
-
+    /*Style Rules for the left image of the now in desktop visible second image on the contact page*/
     .contact-image-top {
         display: block;
         max-width: 30vw;
         margin: 20px 10px 20px 0;
     }
 
+    /*Form Element Style Rules*/
     #form-div {
         width: 30vw;
         border: 5px solid #715F58;
@@ -540,6 +564,8 @@ footer a {
     fieldset {
         border: 1px double #715F58;
     }
+    
+    /*Style Rules that display the terms and conditions box in desktop mode*/
 
     #terms-link {
         display: none;
@@ -555,7 +581,7 @@ footer a {
         overflow: scroll;
         background-color: #EFFCF8;
     }
-
+    /*Styling the image to be displayed to the left*/
     .contact-image-bottom {
         max-width: 30vw;
         margin: 20px 10px 20px 0;
@@ -565,7 +591,8 @@ footer a {
         padding: 15px;
         margin: 20px;
     }
-    .headline-maps-align{
+    /*Google Maps Integration Style Rules for Desktop view*/
+    .headline-maps-align {
         display: flex;
         flex-direction: column;
     }
