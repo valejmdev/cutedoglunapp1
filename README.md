@@ -20,7 +20,7 @@ This website has been created as the first Portfolio project for Code Institute'
     1. [General](#General)
     1. [Home page](#Home-page)
     1. [Gallery](#Gallery)
-    1. [Contact](#Recipes)
+    1. [Contact](#Contact)
  1. [Testing](#Testing)
 	1. [General Testing](assets/docs/readmepages/TESTING.md)
 	2. [Mobile Testing](assets/docs/readmepages/TESTING.md)
@@ -28,7 +28,7 @@ This website has been created as the first Portfolio project for Code Institute'
 	4. [Functionality](assets/docs/readmepages/TESTING.md)
  	5. [Website Development Issues](assets/docs/readmepages/TESTING.md)
  	6. [Bugs](assets/docs/readmepages/TESTING.md)
- 	7. [Technologies Used](#Technologies-Used)
+ 	7. [Technologies Used](assets/docs/readmepages/TESTING.md)
  	8. [Validation](assets/docs/readmepages/TESTING.md)
 	9. [W3C HTML](assets/docs/readmepages/TESTING.md)
 	10. [W3C Jigsaw](assets/docs/readmepages/TESTING.md)
@@ -38,7 +38,7 @@ This website has been created as the first Portfolio project for Code Institute'
       1. [Content](#Content)
       2. [Media](#Media)
       3. [Code](#Code)
- 5. [Acknowledgments](#Acknowledgments)
+ 5. [Acknowledgements](#Acknowledgements)
 ***
 
 
