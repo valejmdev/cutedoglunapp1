@@ -121,7 +121,7 @@ This detailed user journey crafted for Sarah's persona aims to immerse her in Lu
 - A calendar on the contact form
 - Different Layouts have been changed for visibility and accessibility 
 
-- To see all Wireframes, click [here](assets/docs/WIREFRAMES.md)
+- To see all Wireframes, click [here](assets/docs/readmepages/WIREFRAMES.md)
 
 Here is an example from my homepage:
 ![Wireframe Desktop Index](assets/docs/readmescreenshots/wireframedesktopindex.png)
