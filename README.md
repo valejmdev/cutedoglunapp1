@@ -117,22 +117,28 @@ Elements you might find missing from the live Website:
 -A calender on the contact form
 -Different Layouts have been changed for visibility and accessibility 
 Here is an example from my homepage:
+
 ![Wireframe Desktop Index](assets/docs/readmescreenshots/wireframedesktopindex.PNG)
-To see all Wireframe click [here](assets/docs/WIREFRAMES.md)
+To see all Wireframe click [here](assets/docs/readmepages/WIREFRAMES.md)
+
 ***
 ### Color: 
 I have been inspired by the design of this [Website](https://www.thekennelclub.org.uk).
 With that i inspiration i created a color pallete [here](https://mycolor.space/?hex=%23006954&sub=1)
 On the website mycolor.space i chose the Discrete Palette:
+
 ![Discrete Palette mycolor.space](assets/docs/readmescreenshots/descretplatedesigncdlunapp1.PNG)
 
 I tested my Color Contrast with this [Website](https://coolors.co/contrast-checker/fafafa-006954)
 I got the following values:
+
 ![Contrast Checker Body Text](assets/docs/readmescreenshots/contrast1cdlunapp1.PNG)
+
 ![Contrast Checker Header and Footer](assets/docs/readmescreenshots/contrast2cdlunapp1.PNG)
 ***
 ### Font: 
 I chose the current font, the Montserrat font family, as it is  a modern and versatile sans-serif typeface. Its clean design and legibility make it perfect for a wide range of projects, and its geometric design gives it a unique personality that can help make a website or design stand out.
+
 [Google Fonts "Montserrat-Font"](https://fonts.google.com/specimen/Montserrat?preview.text=Cute%20dog%20Luna&query=Mon)
 ***
 ### Images: 
@@ -140,52 +146,85 @@ All Images were taken by myself and Luna, Cesar and Flora gave consent to upload
 
 ## Features: 
 ### General: 
-The Header Element
+The Header Element shows 1 to 2 pictures depending on screensize.
+It  invites the user to giggle about the close nose and innocent gaze.
+
 ![Header Element](assets/docs/readmescreenshots/headerdesktopcdlunapp1.png)
 
-The Nav Element
+The Nav Element has a hover animation that increases the size of the individual Text for accessibility.
+The current page will be highlighted by an underline to keep the user oriented.
+
 ![Navigation Bar](assets/docs/readmescreenshots/navdesktopcdlunapp1.png)
 
-Address and Google Maps Integration
+I added a Address and Google Maps Integration from [Embeded Map](https://www.embed-map.com/). 
+This helps the user to plan his visit ahead of booking the service the user desires.
+
 ![Google Maps Integration](assets/docs/readmescreenshots/mapsdesktopcdlunapp1.png)
 
-Footer
+The Footer Element contains Soical Media Links to Facebook, Twitter and Instagram.
+The Icons contain the Link and will redirect the user to the desired Social Media Platform in a new tab.
+
 ![Footer with Social Media](assets/docs/readmescreenshots/footerdesktopcdlunapp1.png)
 
 ### Home page: 
-Introduction Text 
+The Introduction Text greets the user and invites to read and see more of the page.
+
 ![Introduction Text on Homepage](assets/docs/readmescreenshots/introindexdesktopcdlunapp1.png)
 
-Biography
+The Biography contains a lot of relevant Information for the user to learn about Luna.
+
 ![Biography of Luna and Me](assets/docs/readmescreenshots/bioindexdesktopcdlunapp1.png)
 
-Serviceboxes
+I have added 3 Serviceboxes that describe the possible bookings the user can choose from.
+I added a hover Animation for UX that increase the size of the boxes.
+Below you can see the Call to Action Box, that redirects the User to the Contact page.
+
 ![3 Service boxes with description and redirect box below](assets/docs/readmescreenshots/serviceboxesdesktopcdlunapp1.png)
 
-Call to Action
+Lets Take a closer look at the Call to Action. 
+The box has a hover animation that increases the size of the box.
+The Link has a hover animation aswell that increases the size of the text.
+It is the last element of the page, encouriging the user to book his desired service after taking a look at the content of the page.
+
 ![Redirect Box with Call to Action](assets/docs/readmescreenshots/calltoactiondesktopcdlunapp1.png)
 
 ### Gallery:
-Introduction Text
+The Introduction Text of the Gallery invites the user to take a look at each picture and read the descriptions.
+
 ![Introduction Text on Gallery](assets/docs/readmescreenshots/introgallerydesktopcdlunapp1.png)
 
-Images and Descriptions
+The Images and Descriptions of the Gallery page were all taken and written by me.
+I have added a responsive Design to ensure any Screensize can enjoy the beauty of Luna.
+For the social aspect of inviting other dogs to play with Luna i have chosen to use pictures where she is with other dogs.
+
 ![Gallery with Images and Descriptions](assets/docs/readmescreenshots/gallerydesktopcdlunapp1.png)
 
- Call to Action
+I have added another Call to Action box to the gallery to encouriging the user to book his desired service after taking a look at the content of the page.
+
 ![Redirect Box with Call to Action](assets/docs/readmescreenshots/calltoactiondesktopcdlunapp1.png)
 
 ### Contact: 
-Service Boxes
+I have added the 3 Serviceboxes that describe the possible bookings the user can choose from again on the contact page to make it easier to choose the desired option on the contact form.
+I added a hover Animation for UX that increase the size of the boxes.
+
 ![3 Service boxes with description](assets/docs/readmescreenshots/serviceboxescontactdesktopcdlunapp1.png)
 
-Form Element 
+The Form Element has 3 fieldsets.
+One for the personal information to contact the user and enable a fluid booking process.
+Another for the desired Option of Services the user can choose from.
+At last there is a part for the Terms and Conditions and the submition of the contact form.
+
 ![Form Element with input](assets/docs/readmescreenshots/formzoomdesktopcdlunapp1.PNG)
 
-Luna watching you filling it in
+On the left and right side of the contact form, Luna will watch you with an excited focus.
+This is to ensure the User stays motivated to meet Luna.
+
 ![Form Element with 2 Images to the side](assets/docs/readmescreenshots/formfullviewdesktopcdlunapp1.png)
 
-Submit Page
+After Submitting the form with all valid inputs, you will be redirected to this congratulations page.
+This is a placeholder, provided from Code Institute.
+If this page is displayed, the form element works as intended.
+
 ![Congratulation Page after submitting](assets/docs/readmescreenshots/forminputvaliddesktopcdlunapp1.png)
 
 ## Testing:  
@@ -251,14 +290,14 @@ At the initial stages of my project, I made an error how and when to use GitComm
 ## Validation: 
 ### W3C HTML: 
 I used the [W3C HTML Validator](https://validator.w3.org/nu/)
-To see all Screenshot of validation click [here](assets/docs/VALIDATION.md)
+To see all Screenshot of validation click [here](assets/docs/readmepages/VALIDATION.md)
 ### W3C Jigsaw: 
 I used the [W3C CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator/)
 ![W3C CSS Validation Jigsaw](assets/docs/readmescreenshots/w3cjigsawvalidatorcss.png)
 
 ## Accessibility: 
 I used the Chrome Lighthouse tool and received different scores for different pages and devices.
-To see all Screenshots i have provided, click [here](assets/docs/LIGHTHOUSE.md)
+To see all Screenshots i have provided, click [here](assets/docs/readmepages/LIGHTHOUSE.md)
 
 ## Deployment: 
 This project was developed using [GitPod](https://gitpod.io/) and [VSCode](https://code.visualstudio.com), committed and pushed to [GitHub](https://github.com/) using a GitPod terminal.
@@ -317,6 +356,7 @@ My Dog for posing so perfectly to fill the page with her beauty.
 [W3 Schools](https://www.w3schools.com)
 [MDN](https://developer.mozilla.org/en-US/)
 [stack overflow](https://stackoverflow.com)
+[Embeded Map](https://www.embed-map.com/) for the Google Maps Integration.
 I took a lot of Inspiration from the Coders Coffehouse project and the Love Running project. (All references in Features)
 
 
