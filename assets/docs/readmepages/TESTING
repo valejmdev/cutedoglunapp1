@@ -62,6 +62,16 @@ At the initial stages of my project, I made an error how and when to use GitComm
 
 ## Bugs
 
+This table summarizes the encountered issues, their current status, and any actions taken to address them.
+
+| Issue                                                          | Status                                        |
+|----------------------------------------------------------------|-----------------------------------------------|
+| Display error of Header backgroud images on certain sizes      | ✅ fixed with deleting width from 2 style rules |
+| Layout error on Gallery Page                                   | ✅ fixed with using flexbox and creating more divs |
+| Navbar position error, leaving the page to the side            | ✅ fixed by giving padding and deleting margin from certain elements |
+| Integration error of calend.ly for availability of Bookings    | ❌ not fixed, due to missing time, will be implemented in the future |
+
+
 ## Validation: 
 ### W3C HTML: 
 I used the [W3C HTML Validator](https://validator.w3.org/nu/)
