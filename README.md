@@ -141,38 +141,52 @@ All Images were taken by myself and Luna, Cesar and Flora gave consent to upload
 ## Features: 
 ### General: 
 The Header Element
-![Header Element](assets/docs/readmescreenshots/headerdesktopcdlunapp1.PNG)
+![Header Element](assets/docs/readmescreenshots/headerdesktopcdlunapp1.png)
+
 The Nav Element
-![Navigation Bar](assets/docs/readmescreenshots/navdesktopcdlunapp1.PNG)
+![Navigation Bar](assets/docs/readmescreenshots/navdesktopcdlunapp1.png)
+
 Address and Google Maps Integration
-![Google Maps Integration](assets/docs/readmescreenshots/mapsdesktop.PNG)
+![Google Maps Integration](assets/docs/readmescreenshots/mapsdesktopcdlunapp1.png)
+
 Footer
-![Footer with Social Media](assets/docs/readmescreenshots/footerdesktop.PNG)
+![Footer with Social Media](assets/docs/readmescreenshots/footerdesktopcdlunapp1.png)
+
 ### Home page: 
 Introduction Text 
-![Introduction Text on Homepage](assets/docs/readmescreenshots/introindexdesktopcdlunapp1.PNG)
+![Introduction Text on Homepage](assets/docs/readmescreenshots/introindexdesktopcdlunapp1.png)
+
 Biography
-![Biography of Luna and Me](assets/docs/readmescreenshots/bioindexdesktopcdlunapp1.PNG)
+![Biography of Luna and Me](assets/docs/readmescreenshots/bioindexdesktopcdlunapp1.png)
+
 Serviceboxes
-![3 Service boxes with description and redirect box below](assets/docs/readmescreenshots/serviceboxesdesktop.PNG)
+![3 Service boxes with description and redirect box below](assets/docs/readmescreenshots/serviceboxesdesktopcdlunapp1.png)
+
 Call to Action
-![Redirect Box with Call to Action](assets/docs/readmescreenshots/calltoaction.PNG)
+![Redirect Box with Call to Action](assets/docs/readmescreenshots/calltoactiondesktopcdlunapp1.png)
+
 ### Gallery:
 Introduction Text
-![Introduction Text on Gallery](assets/docs/readmescreenshots/introgallerydesktop.PNG)
+![Introduction Text on Gallery](assets/docs/readmescreenshots/introgallerydesktopcdlunapp1.png)
+
 Images and Descriptions
-![Gallery with Images and Descriptions](assets/docs/readmescreenshots/gallerydesktop.PNG)
+![Gallery with Images and Descriptions](assets/docs/readmescreenshots/gallerydesktopcdlunapp1.png)
+
  Call to Action
-![Redirect Box with Call to Action](assets/docs/readmescreenshots/calltoaction.PNG)
+![Redirect Box with Call to Action](assets/docs/readmescreenshots/calltoactiondesktopcdlunapp1.png)
+
 ### Contact: 
 Service Boxes
-![3 Service boxes with description](assets/docs/readmescreenshots/serviceboxescontactdesktop.PNG)
+![3 Service boxes with description](assets/docs/readmescreenshots/serviceboxescontactdesktopcdlunapp1.png)
+
 Form Element 
-![Form Element with input](assets/docs/readmescreenshots/formzoomdesktop.PNG)
+![Form Element with input](assets/docs/readmescreenshots/formzoomdesktopcdlunapp1.PNG)
+
 Luna watching you filling it in
-![Form Element with 2 Images to the side](assets/docs/readmescreenshots/formfullviewdesktop.PNG)
+![Form Element with 2 Images to the side](assets/docs/readmescreenshots/formfullviewdesktopcdlunapp1.png)
+
 Submit Page
-![Congratulation Page after submitting](assets/docs/readmescreenshots/forminputvalid.PNG)
+![Congratulation Page after submitting](assets/docs/readmescreenshots/forminputvaliddesktopcdlunapp1.png)
 
 ## Testing:  
 ### General Testing
