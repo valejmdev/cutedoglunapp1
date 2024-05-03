@@ -307,6 +307,11 @@ h3 {
     margin: 20px 0 0 0;
 }
 
+/*404 page Conten Style Rules*/
+.center-text-missing-page{
+    text-align: center;
+}
+
 /*Google Maps Integration Style Rules*/
 .google-maps-align {
     display: flex;
