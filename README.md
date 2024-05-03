@@ -3,7 +3,7 @@ Welcome to my Website Project about my cute Dog Luna and the services she wants 
 It is complete with an contact form for potential dog lovers to get in contact with Me and Luna, an gallery section to show people some of Luna's beautiful pictures.
 On the Homepage you can read all about Luna's Biography and find the services she offers to you.
 
-This website has been created as the first Milestone project for Code Institute's Full Stack Software Development Diploma. It was built using HTML and CSS. GitPod was used for writing the code for this website, as well as committing and pushing to GitHub. GitHub was then used to store the project after it had been pushed from GitPod. Once all the code had been written, GitPages was then used to deploy the website.
+This website has been created as the first Portfolio project for Code Institute's Full Stack Software Development Diploma. It was built using HTML and CSS. GitPod was used for writing the code for this website, as well as committing and pushing to GitHub. GitHub was then used to store the project after it had been pushed from GitPod. Once all the code had been written, GitPages was then used to deploy the website.
 
 ![I Am Responsive](assets/docs/readmescreenshots/fullresponsivecdlunapp1.png)
 
