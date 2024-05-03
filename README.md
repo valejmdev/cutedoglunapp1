@@ -118,10 +118,13 @@ Elements you might find missing from the live Website:
 -A picture of Me
 -A calender on the contact form
 -Different Layouts have been changed for visibility and accessibility 
+
+To see all Wireframe click [here](assets/docs/WIREFRAMES.md)
+
 Here is an example from my homepage:
 ![Wireframe Desktop Index](assets/docs/readmescreenshots/wireframedesktopindex.png)
 ![Wireframe Mobile Index](assets/docs/readmescreenshots/wireframemobileindex.png)
-To see all Wireframe click [here](assets/docs/WIREFRAMES.md)
+
 ***
 ### Color: 
 I have been inspired by the design of this [Website](https://www.thekennelclub.org.uk).
@@ -132,6 +135,7 @@ On the website mycolor.space i chose the Discrete Palette, because the colors co
 I tested my Color Contrast with this [Website](https://coolors.co/contrast-checker/fafafa-006954)
 I got the following values, which solidified my design choice:
 ![Contrast Checker Body Text](assets/docs/readmescreenshots/contrast1cdlunapp1.png)
+***
 ![Contrast Checker Header and Footer](assets/docs/readmescreenshots/contrast2cdlunapp1.png)
 ***
 ### Font: 
