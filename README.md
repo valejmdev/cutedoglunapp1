@@ -140,9 +140,39 @@ All Images were taken by myself and Luna, Cesar and Flora gave consent to upload
 
 ## Features: 
 ### General: 
+The Header Element
+![Header Element](assets/docs/readmescreenshots/headerdesktopcdlunapp1.PNG)
+The Nav Element
+![Navigation Bar](assets/docs/readmescreenshots/navdesktopcdlunapp1.PNG)
+Address and Google Maps Integration
+![Google Maps Integration](assets/docs/readmescreenshots/mapsdesktop.PNG)
+Footer
+![Footer with Social Media](assets/docs/readmescreenshots/footerdesktop.PNG)
 ### Home page: 
-### Gallery: 
+Introduction Text 
+![Introduction Text on Homepage](assets/docs/readmescreenshots/introindexdesktopcdlunapp1.PNG)
+Biography
+![Biography of Luna and Me](assets/docs/readmescreenshots/bioindexdesktopcdlunapp1.PNG)
+Serviceboxes
+![3 Service boxes with description and redirect box below](assets/docs/readmescreenshots/serviceboxesdesktop.PNG)
+Call to Action
+![Redirect Box with Call to Action](assets/docs/readmescreenshots/calltoaction.PNG)
+### Gallery:
+Introduction Text
+![Introduction Text on Gallery](assets/docs/readmescreenshots/introgallerydesktop.PNG)
+Images and Descriptions
+![Gallery with Images and Descriptions](assets/docs/readmescreenshots/gallerydesktop.PNG)
+ Call to Action
+![Redirect Box with Call to Action](assets/docs/readmescreenshots/calltoaction.PNG)
 ### Contact: 
+Service Boxes
+![3 Service boxes with description](assets/docs/readmescreenshots/serviceboxescontactdesktop.PNG)
+Form Element 
+![Form Element with input](assets/docs/readmescreenshots/formzoomdesktop.PNG)
+Luna watching you filling it in
+![Form Element with 2 Images to the side](assets/docs/readmescreenshots/formfullviewdesktop.PNG)
+Submit Page
+![Congratulation Page after submitting](assets/docs/readmescreenshots/forminputvalid.PNG)
 
 ## Testing:  
 ### General Testing
